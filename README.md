@@ -4,11 +4,19 @@ Introduction to Scratch Projects
 Usage
 --------------
 
+Clone this repo to your local system:
+
+    git clone https://github.com/cd-carrick/scratch-intro.git
+
+This will create a directory called "scratch-intro" contain the Scratch projects.
+
+
 Go to http://scratch.mit.edu and select the Option to Create
 
 From the File menu, select the option to "Upload from your computer"
 
 Select the relevant .sb2 file from this repository
+
 
 dancing-cats.sb2
 --------------
