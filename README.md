@@ -8,7 +8,7 @@ Clone this repo to your local system:
 
     git clone https://github.com/cd-carrick/scratch-intro.git
 
-This will create a directory called "scratch-intro" contain the Scratch projects.
+This will create a directory called "scratch-intro" containing the Scratch projects.
 
 
 Go to http://scratch.mit.edu and select the Option to Create
